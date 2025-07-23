@@ -1,4 +1,4 @@
-# PGMFFEnthusiasts
+# Enter the Bradyverse
 
 Running your own Touchdown server has never been so easy! We've pre-configured everything,
 custom Brady patches and all for your usage.
